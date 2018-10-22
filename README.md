@@ -1,2 +1,1 @@
-# javascript-study-freeCodeCamp
- Some functions written in JavaScript for personal study.
+## Some functions built to improve my JavaScript skills as part of Free Code Camp (https://www.freecodecamp.org/)
